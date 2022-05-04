@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>v3추가파일</h1>
-	<h3>pc2 작업!!!!</h3>
-	<p>pc2추가작업</p>
-	<p>pc1 : 한번은 참는다</p>
-	<p>미안하다.</p>
-	<h4>하하하하</h4>
+	<h1>새 파일 생성</h1>
 </body>
 </html>
